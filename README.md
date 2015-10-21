@@ -1,7 +1,7 @@
 # MelloTrello
-A sleek Trello theme. **Install via Userstyles.org (coming soon)**
+## A sleek Trello theme. **Install via Userstyles.org (coming soon)**
 
-by Thomas McMahon | [TwisterMc](http://www.twistermc.com)
+by Thomas McMahon | [TwisterMc](http://www.twistermc.com) | v1.0
 
 MelloTrello is a Trello theme that can be applied with Stylish. It's meant to be easy on the eyes and be a bit  Mac like.
 
