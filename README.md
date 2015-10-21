@@ -1,5 +1,5 @@
 # MelloTrello
-## A sleek Trello theme. **Install via Userstyles.org (coming soon)**
+## A sleek Trello theme. Install via [Userstyles.org](https://userstyles.org/styles/119907/mellotrello)
 
 by Thomas McMahon | [TwisterMc](http://www.twistermc.com) | v1.0
 
