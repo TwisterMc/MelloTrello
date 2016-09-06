@@ -13,6 +13,7 @@
         font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif !important;
         font-weight: 300 !important;
         background-size: 100% 100%, cover !important;
+        background-attachment: fixed;
     }
 
     h3,
