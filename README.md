@@ -30,9 +30,9 @@ Feel free to use the code to create your own style too.
 
 ## Release Notes
 
-###Version 1.1:
+### Version 1.1:
 - Show text on labels.
 - Boards now stack, aka responsive. This works great on smaller screens or in Vivaldi's siebar.
 
-###Version 1.1:
+### Version 1.1:
 - Initial Release
