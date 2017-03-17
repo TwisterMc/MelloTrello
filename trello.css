@@ -1,6 +1,7 @@
 @namespace url(http://www.w3.org/1999/xhtml);
 
 @-moz-document domain("trello.com") {
+
     body {
         background: rgba(122, 223, 206, 1);
         background: -moz-linear-gradient(top, rgba(122, 223, 206, 1) 0%, rgba(114, 149, 206, 1) 100%);
@@ -11,6 +12,8 @@
         background: linear-gradient(to bottom, rgba(122, 223, 206, 1) 0%, rgba(114, 149, 206, 1) 100%);
         font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif !important;
         font-weight: 300 !important;
+        background-size: 100% 100%, cover !important;
+        background-attachment: fixed;
     }
 
     h3,
@@ -43,7 +46,6 @@
     .window-wrapper a {
         text-decoration: none !important;
     }
-
     #search-text {
         border-radius: 0px !important
     }
@@ -130,20 +132,16 @@
     .icon-sm {
         color: #4d4d4d !important;
     }
-
     .icon-sm:hover {
         color: #000 !important;
     }
-
     .list-card-labels .card-label {
         height: 4px !important;
         width: 10px !important;
     }
-
     .icon-edit {
         color: #000 !important;
     }
-
     .list-card-details {
         padding: 6px 6px !important;
     }
@@ -239,54 +237,4 @@
         color: #333 !important;
     }
 
-    /* Stack Boards - Responsive View */
-    #board {
-        display: block !important;
-        text-align: left !important;
-        position: relative !important;
-        white-space: initial !important;
-        padding-bottom: 24px !important;
-    }
-
-    .board-canvas {
-        height: auto !important;
-    }
-
-    .body-board-view {
-        overflow-y: visible !important;
-    }
-
-    .js-list,
-    .js-add-list {
-        display: inline-block !important;
-        vertical-align: top !important;
-        margin: 0 0 10px 10px !important;
-    }
-
-    .u-gutter {
-        margin-left: 0 !important;
-    }
-    /* End Stack Boards - Responsive View */
-
-    /* Show Text on Labels */
-    .body-board-view .list-card-labels .card-label {
-        font-weight: bold;
-        color: #fff !important;
-        text-transform: uppercase;
-        letter-spacing: 0.1em !important;
-        line-height: 14px !important;
-        height: auto !important;
-        padding: 2px 6px !important;
-        margin-right: 5px !important;
-        width: auto !important;
-        text-shadow: none !important;
-        font-size: 8px !important;
-        opacity: .8 !important;
-        margin-left: 0 !important;
-    }
-
-    .body-board-view .list-card-labels {
-        display: flex !important;
-    }
-    /* End Show Text on Labels */
 }
