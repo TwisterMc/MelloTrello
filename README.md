@@ -3,7 +3,7 @@
 
 by Thomas McMahon | [TwisterMc](http://www.twistermc.com) | v1.1
 
-MelloTrello is a Trello theme that can be applied with Stylish. It's meant to be easy on the eyes and be a bit  Mac like.
+MelloTrello is a Trello theme that can be applied with Stylish. It's meant to be easy on the eyes and be a bit  Mac like. It also shows text on labels and is responsive.
 
 **With MelloTrello**
 
@@ -27,3 +27,12 @@ MelloTrello has not been tested with a paid Trello account or any third party ex
 There's no mobile support either unless someone knows how to make that happen. I sure don't.
 
 Feel free to use the code to create your own style too.
+
+## Release Notes
+
+###Version 1.1:
+- Show text on labels.
+- Boards now stack, aka responsive. This works great on smaller screens or in Vivaldi's siebar.
+
+###Version 1.1:
+- Initial Release
