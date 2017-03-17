@@ -34,5 +34,5 @@ Feel free to use the code to create your own style too.
 - Show text on labels.
 - Boards now stack, aka responsive. This works great on smaller screens or in Vivaldi's siebar.
 
-### Version 1.1:
+### Version 1.0:
 - Initial Release
